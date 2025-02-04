@@ -1,6 +1,7 @@
 python==3.11.0
-birdnetlib==1.5.1
+birdnet==1.5.1
  # https://github.com/kahst/BirdNET-Analyzer
 mySQL-connector-python==8.0.26
  # https://dev.mysql.com/doc/connector-python/en/
- 
+pathlib==1.0.1
+ # https://docs.python.org/3/library/pathlib.html
