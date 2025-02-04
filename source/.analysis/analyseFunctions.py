@@ -10,5 +10,5 @@ def analyseAudio(path,latitude,longitude,week):
         Path(path),
         filter_species=set(species_in_area.keys())
     )
-
-
+    prediction, confidence = list(predictions[(0.0, 3.0)].items())[0]
+    return prediction, confidence
