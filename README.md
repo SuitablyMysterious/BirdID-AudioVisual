@@ -14,3 +14,7 @@
 #### 2.
 
 Download mySQL from: [mySQL installer](https://dev.mysql.com/downloads/installer/)
+
+#### 3.
+
+run .build/windows/setup.bat in your command line
